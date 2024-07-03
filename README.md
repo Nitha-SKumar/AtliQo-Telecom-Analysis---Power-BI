@@ -21,3 +21,27 @@ Imagine yourself as Peter Pandey and perform the following task
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 ## Data Model
+
+![datamodel](https://github.com/Nitha-SKumar/AtliQo-Telecom-Analysis-Power-BI/blob/main/Dashboard/data%20model.PNG)
+
+## Dashboard
+![KPI](https://github.com/Nitha-SKumar/AtliQo-Telecom-Analysis-Power-BI/blob/main/Dashboard/KPI.PNG)
+
+![Market Share](https://github.com/Nitha-SKumar/AtliQo-Telecom-Analysis-Power-BI/blob/main/Dashboard/Market%20share.PNG)
+
+![Plans](https://github.com/Nitha-SKumar/AtliQo-Telecom-Analysis-Power-BI/blob/main/Dashboard/Plans.PNG)
+
+## Insights
+
+- The revenue has decreased by 0.5% compared to the previous quarter, predominantly due to lower earnings in Delhi, Chennai, and Ahmedabad.
+- Despite the drop in revenue, the ARPU (Average Revenue Per User) has risen from 190.2 to 211.3 rupees.
+- AtliQo consistently holds the third spot in the market rankings, without any fluctuations.
+- The most successful plans in terms of performance are Plans 1, 2, and 11.
+- Although there is a 55% increase in the number of unsubscribed users, Pune has experienced an 18% rise in active users.
+
+
+
+
+
+
+
