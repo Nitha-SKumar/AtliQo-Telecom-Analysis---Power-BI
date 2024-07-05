@@ -4,7 +4,7 @@ This project is done as part of the November month codebaiscs resume project cha
 
 [Link to the Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTE3MjcwNGUtMjQxZC00ZjhiLTg5YTAtZTM0OGM4M2U0NWZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU4ODkxM2MtNjRlZC00ZjFlLWFhNGYtZGJiOTIyMmFkMTQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 
